@@ -75,10 +75,6 @@ h1{
 
 }
 
-.new{
-
-}
-
 .arrow{
     font-size: 10px;
     
@@ -93,9 +89,32 @@ h1{
 
 ul{
     padding-inline-start: 10px;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li::before{
+    content: "\2713";
+    color:#008000 ;
+    margin-right: 8px;
+
+}
+
+.name{
+    display: inline-block;
+    background-color: rgb(121, 121, 208);
+    border: none;
+    width: 90px;
+    height: 30px;
+    border-radius: 20px;
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+    line-height: 30px;
+    
     
 }
 
-li{
-    list-style-type: none;
+li.new{
+    margin-top: 20px;
 }
