@@ -6,19 +6,59 @@
 }
 
 /*Generics*/
+html{
+    background-color: rgb(181, 175, 175);
+}
 
 /*Utils*/
+.container{
+    max-width: 1080px;
+    margin: 0 auto;
+}
 
 /*Header*/
 
-header{
-    background-color: grey;
+.back-white{
+    background-color: #fff;
     
+}
+
+.logo{
+    margin-left: 20px;
+    margin-top: 15px;
 }
 
 h1{
     color: #000000;
     display: inline;
     font-size: 60px; 
+}
+
+.button{
+    margin-top: 30px;
+    height: 50px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#task{
+    background-color: #1F90FF;
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 20px;
+    border: none;
+    width: 110px;
+    height: 30px;
+    border-radius: 5px;
+
+}
+
+#section{
+    background-color: #fff;
+    color: #808080;
+    margin-top: 10px;
+    width: 110px;
+    height: 30px;
+    border-radius: 5px;
 }
 
