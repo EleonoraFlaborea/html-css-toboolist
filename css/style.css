@@ -100,7 +100,7 @@ li.yes::before{
     content: "\2713";
     color:#008000 ;
     margin-right: 8px;
-    
+   
 
 }
 
@@ -122,29 +122,29 @@ li.new{
     margin-top: 20px;
 }
 
-#light-blue{
+.light-blue{
     background-color: #45ABEA;
 
 }
 
-#purple{
+.purple{
     background-color: #9C72E4;
 
 }
 
-#green{
+.green{
     background-color: #64C0A9;
 }
 
-#orange{
+.orange{
     background-color: #F29E33;
 }
 
-#light-green{
+.light-green{
     background-color: #B0C927;
 }
 
-#pink{
+.pink{
     background-color: #D863A1;
 }
 
