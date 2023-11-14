@@ -5,3 +5,20 @@
     box-sizing: border-box;
 }
 
+/*Generics*/
+
+/*Utils*/
+
+/*Header*/
+
+header{
+    background-color: grey;
+    
+}
+
+h1{
+    color: #000000;
+    display: inline;
+    font-size: 60px; 
+}
+
