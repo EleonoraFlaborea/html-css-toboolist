@@ -91,3 +91,11 @@ h1{
 
 }
 
+ul{
+    padding-inline-start: 10px;
+    
+}
+
+li{
+    list-style-type: none;
+}
