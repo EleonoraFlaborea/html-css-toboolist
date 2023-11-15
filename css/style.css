@@ -101,7 +101,7 @@ li.yes::before{
     color:#008000 ;
     margin-right: 8px;
     border: solid #008000;
-    border border-radius: 50;
+    border-radius: 50;
    
 
 }
@@ -156,7 +156,7 @@ li.no::before{
     color:#FD1702;
     margin-right: 8px;
     border: solid #FD1702;
-    border border-radius: 50;
+    border-radius: 50;
     
     
 }
